@@ -7527,14 +7527,14 @@ a.text-dark:hover, a.text-dark:focus {
 
 .card4 {
   text-align: center;
-  padding: 20px 20px 70px 20px;
+  padding: 20px;
   background-color: #afb1bc;
   margin: 0px 10px 0px 10px; }
 
 .card3 {
   text-align: center;
   background-color: #3247bc;
-  margin: 0px 5px;
+  margin: 0px 2px;
   padding: 0px;
   color: white; }
   .card3 h3 {
@@ -7580,5 +7580,7 @@ footer {
   background-color: #43454f;
   color: gray;
   text-align: center; }
+  footer p {
+    margin-bottom: 0px; }
 
 /*# sourceMappingURL=style.css.map */
